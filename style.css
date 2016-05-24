@@ -1,0 +1,78 @@
+*{	
+/*	outline: 2px dotted red;*/
+	border: 0 none;
+	padding: 0;
+	margin: 0;
+}
+
+div.wrapper{
+	width: 970px;
+	min-height: 100px;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+	div.left{
+		border: 2px solid black;
+		width: 500px;
+		display: inline-block;
+	}
+
+	div.right{
+		
+		width: 200px;
+		display: inline-block;
+		height: 100px;
+		vertical-align: top;
+		padding-right: 100px;
+		text-align: center;
+	}	
+
+
+	p{
+		margin-left: 80px;
+		margin-top: 20px;
+		font-size: 20px;
+		width: 400px;
+	}
+
+	p.email{
+		margin-left: 45px;
+	}
+
+	button{
+		margin: 30px;
+		height: 20px;
+		width: 100px;
+		margin-left: 75px;
+		text-align: center;
+	}
+
+	div.card{
+		margin-left: 100px;
+		margin-bottom: 20px;
+		border: 2px solid black;
+		width: 300px;
+		height: 100px;
+		text-align: center;
+	}
+
+	p.back{
+		display: none;
+		margin: 0px;
+		padding: 0px;
+		text-align: center;
+	}
+
+	textarea{
+		border: 2px solid black;
+	}
+
+
+
+
+
+
+
+
+
